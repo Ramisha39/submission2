@@ -8,7 +8,7 @@ Paper title:
 Universal Language Model Fine-tuning for Text Classification
 
 Link to the paper:
-https://arxiv.org/abs/1801.06146
+https://www.researchgate.net/publication/334116365_Universal_Language_Model_Fine-tuning_for_Text_Classification
 
 Group Number:
 11
